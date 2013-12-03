@@ -5,6 +5,8 @@ The Open Property Exchange PHP Helper Class
 
 This class will help you connect to the Open Property Exchange with PHP
 
+Full documentation available at <http://www.openpropertyexchange.co.uk/documentation>
+
 ##Requirements##
 
 - PHP5
