@@ -1,5 +1,5 @@
-OpenPropertyExchangePHP
-=======================
+Open Property Exchange PHP Helper
+=================================
 
 The Open Property Exchange PHP Helper Class
 
