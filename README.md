@@ -9,7 +9,7 @@ This class will help you connect to the Open Property Exchange with PHP
 
 - PHP5
 - PHP5 Curl
-- PHP hmas hash function with sha256 algo
+- PHP hash_hmac function with sha256 algo
 
 
 ##Usage##
